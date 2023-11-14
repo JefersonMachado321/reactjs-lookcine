@@ -1,0 +1,16 @@
+.Footer{
+  width: 100%;
+  display: flex;
+  align-self: flex-end;
+  justify-content: center;
+  background-color:#FFF;
+  border-top: 3px solid #2980F2;
+  
+}
+.Footer p{
+  font-size: 1rem;
+  align-items: center;
+  color:#222;
+  margin: 1.25rem;
+  font-family: 'Fira Mono', monospace;
+} 

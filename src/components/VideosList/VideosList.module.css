@@ -1,0 +1,6 @@
+.videosList{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+}
